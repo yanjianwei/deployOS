@@ -75,7 +75,7 @@ DeployOS v1.0一款支持在线部署openstack kilo版本的自动化部署工�
 > 
 > $ git push -f origin master
 
-
+* 欢迎各位网友提供更好的建议或者BUG，请联系QQ:446369399 e-mail:yanjianwei@fnic.cn
 
 
 
