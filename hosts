@@ -1,0 +1,7 @@
+127.0.0.1 localhost
+172.171.4.100 controller
+172.171.4.101 network
+172.171.4.58 compute1
+::1 localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
